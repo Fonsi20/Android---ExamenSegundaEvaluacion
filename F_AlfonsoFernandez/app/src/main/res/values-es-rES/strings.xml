@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aprender Quimica</string>
+    <string name="titulolista">Elige un compuesto</string>
+    <string name="debesmeteralgo">Debes colocar la formula</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="OK">Aceptar</string>
+    <string name="textoSalir">La aplicacion se cerrará</string>
+    <string name="correcto">: Correcto!!</string>
+    <string name="fallo">Lo sentimos...</string>
+</resources>

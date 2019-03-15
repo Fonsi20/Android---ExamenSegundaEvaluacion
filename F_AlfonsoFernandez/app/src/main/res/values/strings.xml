@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Learn Chemistry</string>
+    <string name="titulolista">Elige un compuesto</string>
+    <string name="debesmeteralgo">You must enter a formula</string>
+    <string name="cancelar">Cancel</string>
+    <string name="OK">OK</string>
+    <string name="textoSalir">The Application will close</string>
+    <string name="correcto">: Right!!</string>
+    <string name="fallo">We are sorry...</string>
+</resources>
